@@ -1,29 +1,12 @@
-<style>
-  .avatar {
-  width: 150px;                /* Defina o tamanho desejado */
-  height: 150px;
-  object-fit: cover;           /* Garante que a imagem preencha o círculo sem distorcer */
-  border-radius: 50%;          /* Deixa a imagem perfeitamente redonda */
-  border: 6px solid #f8f8f4;   /* Borda offwhite, ajuste a cor conforme necessário */
-  background-color: #f8f8f4;   /* Garante fundo offwhite caso a imagem tenha transparência */
-}
-</style>
 <h2 align="left">Olá mundo👋! Meu nome é Hércules</h2>
 
 ###
 
 <p align="left"> Teste</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HerculesSP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=true&custom_title=Estat%C3%ADsticas" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HerculesSP&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" class='avatar' src=".github/frieren.jpeg" />
 
 ###
 
@@ -42,8 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
-
-###
 
 ###
 

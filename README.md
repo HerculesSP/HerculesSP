@@ -1,4 +1,18 @@
+<style>
+  .avatar {
+  width: 150px;                /* Defina o tamanho desejado */
+  height: 150px;
+  object-fit: cover;           /* Garante que a imagem preencha o círculo sem distorcer */
+  border-radius: 50%;          /* Deixa a imagem perfeitamente redonda */
+  border: 6px solid #f8f8f4;   /* Borda offwhite, ajuste a cor conforme necessário */
+  background-color: #f8f8f4;   /* Garante fundo offwhite caso a imagem tenha transparência */
+}
+</style>
 <h2 align="left">Olá mundo👋! Meu nome é Hércules</h2>
+
+###
+
+<p align="left"> Teste</p>
 
 ###
 
@@ -9,7 +23,7 @@
 
 ###
 
-<img align="right" height="150" src=".github/frieren.jpeg"  />
+<img align="right" class='avatar' src=".github/frieren.jpeg" />
 
 ###
 
@@ -28,6 +42,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+###
 
 ###
 

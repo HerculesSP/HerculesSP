@@ -5,7 +5,7 @@
 - Curso Ciências da Computação na São Paulo Tech School
 - Tenho objetivo de trabalhar com programação backend
 - Já desenvolvi em C++ para Arduíno e ESP32
-- Atualmente programo em NodeJS
+- Atualmente programo em JS (Node)
 - Amante de automobilismo, astronomia, eletrônica e piano
 
 ###

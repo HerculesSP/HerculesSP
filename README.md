@@ -5,8 +5,8 @@
 - Curso Ciências da Computação na São Paulo Tech School
 - Tenho objetivo de trabalhar com programação backend
 - Já desenvolvi em C++ para Arduíno e ESP32
-- Atualmente programo em JS (Node)
-- Amante de automobilismo, astronomia, eletrônica e piano
+- Atualmente programo Java, JavaScript, Python e R nos projetos da faculdade.
+- Amante de astronomia, automobilismo, eletrônica e piano
 
 ###
 
@@ -29,6 +29,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>

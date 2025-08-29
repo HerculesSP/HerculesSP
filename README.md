@@ -5,7 +5,7 @@
 - Curso Ciências da Computação na São Paulo Tech School
 - Tenho objetivo de trabalhar com programação backend
 - Já desenvolvi em C++ para Arduíno e ESP32
-- Atualmente programo Java, JavaScript, Python e R nos projetos da faculdade
+- Atualmente programo Java, JavaScript e Python nos projetos da faculdade
 - Amante de astronomia, automobilismo, eletrônica e piano
 
 ###

@@ -41,7 +41,7 @@ Tenho como objetivo atuar na área de desenvolvimento back-end. Estagiário na C
 <br/>
 
 <div align="center">
-  <a href="mailto:herculespereira99@gmail.com">
+  <a href="mailto:HerculesSP@proton.me">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/herculessp/">

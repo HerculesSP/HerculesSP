@@ -36,8 +36,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # sincroniza com o main remoto
+          git fetch origin
+          git reset --soft origin/main
+
           git add assets/generated/
           if ! git diff --staged --quiet; then
             git commit -m "chore: update profile SVGs [skip ci]"
-            git push
+            git push origin HEAD:main
           fi

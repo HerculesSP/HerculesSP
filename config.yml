@@ -52,6 +52,7 @@ galaxy_arms:
     items:
       - "Docker"
       - "AWS"
+      - "Terraform"
 
 # Featured projects shown as constellation stars
 # Each project needs:

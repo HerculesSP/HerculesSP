@@ -21,7 +21,7 @@ profile:
   bio: |
     Prazer, Hércules! Sou de Cotia, Grande São Paulo. 
     Amante de tecnologia desde pequeno, cursei Desenvolvimento de Sistemas na ETEC Raposo Tavares e atualmente curso Ciências da Computação na São Paulo Tech School. 
-    Tenho como objetivo atuar na área de desenvolvimento back-end. Estagiário na CI&T a partir de 7 de abril.
+    Tenho como objetivo atuar na área de desenvolvimento back-end. Estagiário na CI&T.
   philosophy: '"Si vis pacem, para bellum."'
 
 # Social links displayed at the bottom of the profile
@@ -53,6 +53,7 @@ galaxy_arms:
       - "Docker"
       - "AWS"
       - "Terraform"
+      - "Ansible"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -62,10 +63,10 @@ galaxy_arms:
 projects:
   - repo: "WattSync/WattSync"
     arm: 1
-    description: "Medidor de consumo elétrico inteligente.."
-  - repo: "HerculesSP/100Octanas"
+    description: "Medidor de consumo elétrico inteligente."
+  - repo: "/HerculesSP/DevOps-AWS"
     arm: 1
-    description: "Website MVC de notícias automobilísticas."
+    description: "Provisionamento na AWS com Terraform e Ansible."
   - repo: "HerculesSP/gerenciador-de-catalogo-da-netflix"
     arm: 1
     description: "Gerenciador de catálogos utilizando Azure Functions e CosmosDB."

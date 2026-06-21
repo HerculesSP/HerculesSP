@@ -17,7 +17,7 @@ profile:
   name: "Hércules da S. Pereira"
   tagline: "Back-end Developer"
   company: "CI&T"
-  location: "Campinas, SP"
+  location: "Cotia, SP"
   bio: |
     Prazer, Hércules! Sou de Cotia, Grande São Paulo. 
     Amante de tecnologia desde pequeno, cursei Desenvolvimento de Sistemas na ETEC Raposo Tavares e atualmente curso Ciências da Computação na São Paulo Tech School. 
@@ -35,7 +35,7 @@ social:
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
 galaxy_arms:
   - name: "Frontend"
-    color: "dendrite_violet"
+    color: "axon_amber"
     items:
       - "React"
       - "CSS"
@@ -48,7 +48,7 @@ galaxy_arms:
       - "Spring Boot"
       - ".NET"
   - name: "DevOps"
-    color: "axon_amber"
+    color: "dendrite_violet"
     items:
       - "Docker"
       - "AWS"
@@ -65,7 +65,7 @@ projects:
     arm: 1
     description: "Medidor de consumo elétrico inteligente."
   - repo: "/HerculesSP/DevOps-AWS"
-    arm: 1
+    arm: 2
     description: "Provisionamento na AWS com Terraform e Ansible."
   - repo: "HerculesSP/gerenciador-de-catalogo-da-netflix"
     arm: 1

@@ -10,25 +10,28 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: HerculesSP
 
 # Profile information. name, tagline and philosophy are drawn in the galaxy header;
 # company, location and bio are not drawn: keep them here for your own reference.
 profile:
-  name: "Nyx Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  name: "Hércules da S. Pereira"
+  tagline: "Backend Developer"
+  company: "CI&T"
+  location: "São Paulo, SP"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+    Hi, I am Hercules! I’m from Cotia, in the state of São Paulo. I’ve been passionate about technology since I was a child, 
+    studied Systems Development at ETEC Raposo Tavares, and am currently pursuing a degree in Computer Science at São Paulo Tech School. 
+    I’m an intern at CI&T, working in back-end development.
+
+
+  philosophy: '"Si vis pacem, para bellum."'
 
 # Social links. Not drawn in the images: write them in your README (see README.profile.md)
 social:
   email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  linkedin: "herculessp"
+  #website: "https://nyxorion.dev"
 
 # Galaxy arms are your focus areas.
 # A focus area becomes an arm of the galaxy when at least one of your public
@@ -37,23 +40,49 @@ social:
 # its code (15% or more). Items that are not languages (React, AWS...) are
 # still listed in the tech-stack image.
 galaxy_arms:
-  - name: "Frontend"
-    items:
-      - "TypeScript"
-      - "React"
-      - "CSS"
-    # repos:                   # optional: put these repositories on this arm,
-    #   - "nebula-ui"          # whatever their languages say
   - name: "Backend"
     items:
+      - "Java"
+      - "Spring Boot"
       - "Python"
-      - "Node.js"
-      - "PostgreSQL"
+      - "C#"
+      - "MySQL"
+    repos:
+      - "pezao-sound-projeto-de-extensao/Back-end"
+      - "HerculesSP/Task-Management-API"
+      - "HerculesSP/Clean-Architecture"
+
+  - name: "Frontend"
+    items:
+      - "JavaScript"
+      - "React"
+      - "CSS"
+
   - name: "DevOps"
     items:
-      - "Docker"
+      - "Terraform"
+      - "HCL"
+      - "Ansible"
       - "GitHub Actions"
+      - "Docker"
+    repos:
+      - "HerculesSP/DevOps-AWS"
+      - "HerculesSP/IaC-AWS"
+
+  - name: "Cloud"
+    items:
+      - "Azure"
       - "AWS"
+
+    repos:
+      - "HerculesSP/az-func-validacao-cpf-"
+      - "HerculesSP/gerenciador-de-catalogo-da-netflix"
+
+  - name: "Linguagens"
+    items:
+      - "Paulistanes"
+    repos:
+      - "HerculesSP/Paulistanes"
 
 # Featured projects, shown in their own image and named in the galaxy.
 # Each project needs:
@@ -62,11 +91,18 @@ galaxy_arms:
 # and may have:
 #   arm: 0                    — Pin it to a galaxy arm by index (0 is the first)
 projects:
-  - repo: "galaxy-dev/nebula-ui"
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
-    description: "High-performance API gateway with built-in observability and caching."
 
+  - repo: "HerculesSP/Paulistanes"
+    description: "Linguagem de programação desenvolvida com python."
+    arm: 4
+
+  - repo: "pezao-sound-projeto-de-extensao/Back-end"
+    description: "API backend em Java com Docker Compose e banco SQL."
+    arm: 0
+
+  - repo: "HerculesSP/DevOps-AWS"
+    description: "Infraestrutura AWS com Terraform e Ansible."
+    arm: 2
 # Theme: one palette for GitHub's dark theme and one for its light theme.
 #   deep-sky   — a night sky, with stars in their real colours
 #   cyanotype  — Prussian blue and paper white, with one warm accent
